@@ -7,6 +7,22 @@
 
 - 📫 How to reach me **roy864ankita@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me</h3>
+
 <p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+  </a>
 </p>
