@@ -10,19 +10,16 @@
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/ankita-roy-399367319" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/your-github" target="_blank">
+  <a href="https://github.com/anks864" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:roy864ankita@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
-  </a>
 </p>
